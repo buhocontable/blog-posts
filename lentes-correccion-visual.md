@@ -1,6 +1,6 @@
 ---
 author: Beto Orozco
-img: https://miro.medium.com/v2/resize:fill:88:88/0*nzaLeKBcyfUG8iXn.jpg
+img: https://miro.mm.com/v2/resize:fill:88:88/0*nzaLeKBcyfUG8iXn.jpg
 bio: Contador con 25 años de experiencia.
 title: ¿Puedo deducir mis gastos en lentes de corrección visual?
 summary: Artículo de lentes de corrección visual
