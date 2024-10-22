@@ -3,7 +3,7 @@ author: Beto Orozco
 img: https://miro.medium.com/v2/resize:fill:88:88/0*nzaLeKBcyfUG8iXn.jpg
 bio: Contador con 25 años de experiencia.
 title: ¿Por qué es importante estar al corriente ante el SAT?
-summary: El SAT hace cumplir las leyes y regulaciones fiscales en México, y no mantenerse actualizado puede resultar en sanciones significativas...
+summary: El SAT hace cumplir las leyes y regulaciones fiscales en México, y no mantenerse actualizado puede resultar en sanciones significativas.
 ---
 
 ### Por qué es fundamental mantenerse al día con el SAT
