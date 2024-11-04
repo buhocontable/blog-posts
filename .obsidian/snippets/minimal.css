@@ -1,0 +1,30 @@
+body {
+  --list-marker-color: var(--text-accent);
+  /* --list-marker-color-hover: #00D0FF; */
+  /* --list-marker-color-collapsed: #00D0FF; */
+}
+
+/* Increase space in editing mode*/
+div.view-content {
+  margin-top: 25px !important;
+}
+
+.mod-cm6 .cm-editor .HyperMD-header-1,
+.mod-cm6 .cm-editor .HyperMD-header-2,
+.mod-cm6 .cm-editor .HyperMD-header-3,
+.mod-cm6 .cm-editor .HyperMD-header-4,
+.mod-cm6 .cm-editor .HyperMD-header-5,
+.mod-cm6 .cm-editor .HyperMD-header-6 {
+  padding-bottom:  calc(var(--p-spacing) / 2) ;
+  padding-top:  calc(var(--p-spacing) / 2);
+}
+
+span.cm-highlight, mark {
+	/* background-color: rgba(166, 138, 249, 0.5) !important;
+	color: #fff; */
+	padding-left:   2px;
+	padding-right:  2px;
+	/* padding-top:    0px;
+	padding-bottom: 0px; */
+	border-radius: 2px;
+}
