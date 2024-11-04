@@ -3,7 +3,7 @@ author: Beto Orozco
 img: https://miro.medium.com/v2/resize:fill:88:88/0*nzaLeKBcyfUG8iXn.jpg
 bio: Contador con 25 años de experiencia.
 title: Como reducir el pago de tus impuestos solicitando tus facturas de gastos
-summary: Reducir el pago de impuestos en México de manera legal es posible a través de deducciones y comprobantes fiscales (facturas) que respalden tus gastos. Aquí te doy algunos puntos importantes a tener en cuenta al solicitar tus facturas de gastos en México:.
+summary: Reducir el pago de impuestos en México de manera legal es posible a través de deducciones y comprobantes fiscales (facturas) que respalden tus gastos.
 ---
 
 Reducir el pago de impuestos en México de manera legal es posible a través de deducciones y comprobantes fiscales (facturas) que respalden tus gastos. Aquí te doy algunos puntos importantes a tener en cuenta al solicitar tus facturas de gastos en México:
