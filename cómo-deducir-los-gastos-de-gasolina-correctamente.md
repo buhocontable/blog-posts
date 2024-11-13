@@ -1,5 +1,5 @@
 ---
-author: Beto Orozco
+author: Oscar Cocom
 img: https://miro.medium.com/v2/resize:fill:88:88/0*nzaLeKBcyfUG8iXn.jpg
 bio: Contador con 25 años de experiencia.
 title: ¿Cómo deducir los gastos de gasolina correctamente?
