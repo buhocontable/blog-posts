@@ -1,7 +1,7 @@
 ---
 author: Oscar Cocom
 img: https://miro.medium.com/v2/resize:fill:88:88/0*nzaLeKBcyfUG8iXn.jpg
-bio: Contador con 25 años de experiencia.
+bio: Contador con 12 años de experiencia.
 title: ¿Cómo deducir los gastos de gasolina correctamente?
 summary: En México, deducir los gastos de gasolina correctamente es clave para quienes buscan optimizar su carga fiscal, especialmente empresarios, profesionistas independientes y pequeñas empresas.
 ---
