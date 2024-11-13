@@ -1,71 +1,83 @@
 ---
-author: Beto Orozco
-img: https://miro.medium.com/v2/resize:fill:88:88/0*nzaLeKBcyfUG8iXn.jpg
-bio: Contador con 25 años de experiencia.
-title: Guía Completa de las Deducciones Fiscales en México
+author: Alizon Gonzalez
+img: https://ca.slack-edge.com/TR6A02GKD-U046JJ5TDQD-f55b6fb53a97-512
+bio: Contador con 12 años de experiencia.
+title: ¿Qué son las deducciones personales y cómo funcionan?
 summary: Entender el sistema tributario es esencial para cualquier contribuyente, pueden beneficiarse de una variedad de deducciones fiscales que pueden significar un ahorro importante.
 ---
+Las deducciones personales son los gastos que el contribuyente puede restar de sus ingresos acumulables al presentar su Declaración Anual. Esto ayuda a reducir el monto de impuestos a pagar al SAT. Estas deducciones aplican únicamente en la Declaración Anual, que se presenta a más tardar el 30 de abril del año siguiente.
 
-Entender el sistema tributario es esencial para cualquier contribuyente, y e**n México, las personas físicas pueden beneficiarse de una variedad de deducciones fiscales** que pueden significar un ahorro importante al momento de presentar su declaración anual. Esta guía completa tiene como objetivo proporcionar una visión clara de las deducciones fiscales disponibles, cómo aplicarlas correctamente y qué aspectos clave se deben tener en cuenta para cumplir con las obligaciones fiscales y, al mismo tiempo, optimizar los recursos económicos.
+### ¿Por qué existen?
 
-Las deducciones fiscales son un mecanismo que permite a los contribuyentes disminuir el ingreso gravable, lo que resulta en una reducción del impuesto sobre la renta (ISR) a pagar. Existen diversas categorías de deducciones que incluyen gastos médicos, intereses reales de créditos hipotecarios, donativos, aportaciones para el retiro, entre otros. Cada una de estas categorías tiene sus propios requisitos y límites, los cuales se deben conocer detalladamente para su correcta aplicación.
+Existen para que puedas reducir tu carga tributaria, haciendo más ligeros tus pagos de impuestos anuales.
 
-El Servicio de Administración Tributaria (SAT) es la entidad encargada de regular y proporcionar la información necesaria para que los contribuyentes puedan ejercer sus derechos y cumplir con sus obligaciones. Es importante mantenerse actualizado con los cambios en la legislación fiscal y las disposiciones anuales que puedan afectar las deducciones aplicables.
+### ¿Cuándo se utilizan?
 
-## ¿Qué gastos son deducibles 2024?
+Se usan exclusivamente en la Declaración Anual. Recuerda que debes presentarla antes del 30 de abril del año siguiente al que corresponde el ejercicio fiscal.
 
-Las **deducciones personales en 2024** son una parte vital del proceso de declaración de impuestos. Permiten a las personas físicas reducir su base gravable mediante la acreditación de ciertos gastos realizados durante el ejercicio fiscal. A continuación, se presentan algunas de las deducciones más comunes y cómo pueden impactar en la declaración anual:
+#### Ejemplo de cómo se vería en tu declaración:
 
-### Gastos Médicos y Dentales
+|INGRESOS ACUMULABLES|393,354|
+|---|---|
+|DEDUCCIONES PERSONALES|- 12,900|
+|BASE GRAVABLE|= 380,454|
 
-Los gastos por servicios médicos, dentales y hospitalarios son deducibles siempre y cuando sean efectuados por profesionales titulados y se cuente con la documentación fiscal correspondiente. Esto incluye consultas, tratamientos y estudios médicos. Además, es relevante saber que los gastos de medicinas solo son deducibles si están incluidos en facturas de hospitales.
+Sobre esta "base gravable" es que se calcula el impuesto que corresponde pagar.
 
-### Educación: Colegiaturas y Otros Gastos Escolares
+### ¿Cómo puedes aprovechar estas deducciones?
 
-Las colegiaturas de nivel preescolar hasta bachillerato o su equivalente son deducibles en ciertos límites establecidos por la ley. Sin embargo, es importante destacar que otros gastos educativos como uniformes o transporte escolar no son considerados como deducibles.
+Debes pedir un comprobante fiscal (factura) a quien te ofrezca el servicio o venda el producto deducible. Esto te permite registrar ese gasto y deducirlo en tu declaración.
 
-### Intereses Reales de Créditos Hipotecarios
+### Requisitos y limitantes:
 
-Los intereses reales pagados por créditos hipotecarios destinados a la adquisición de vivienda son deducibles. Para esto, es necesario contar con la constancia de intereses emitida por la institución financiera que otorgó el crédito.
+- **Medio de pago**: Debe hacerse con un medio electrónico (tarjeta de débito, crédito o transferencia bancaria).
+- **Uso de CFDI**: La factura debe tener alguno de los siguientes conceptos, dependiendo del tipo de gasto:
 
-### Aportaciones Voluntarias al Retiro
+### Tipos de deducciones personales y sus requisitos
 
-Las aportaciones voluntarias realizadas a las cuentas personales para el retiro, que estén debidamente registradas ante la Comisión Nacional del Sistema de Ahorro para el Retiro (CONSAR), también pueden ser deducibles hasta cierto límite anual.
+- **CFDI D01: Gastos Médicos y Hospitalarios**
+    
+    - Incluye consultas con nutriólogos, dentistas, psicólogos (siempre que estén titulados).
+    - Gastos hospitalarios, análisis de laboratorio, compra o renta de prótesis y aparatos de rehabilitación.
+    - Honorarios de enfermeras y lentes oftálmicos hasta $2,500, con factura que especifique las características o con diagnóstico de un especialista.
+- **CFDI D10: Pago por Servicios Educativos (Colegiaturas)**
+    
+    - Transporte escolar (si es obligatorio y viene en el comprobante).
+    - Colegiaturas con límites anuales:
+        - Preescolar: $14,200
+        - Primaria: $12,900
+        - Secundaria: $19,900
+        - Profesional técnico: $17,100
+        - Bachillerato: $24,500
+- **CFDI D09: Depósitos para el Ahorro y Pensiones**
+    
+    - Aportaciones voluntarias para el retiro en Afore o planes personales, con un límite máximo del 10% de tus ingresos.
+- **CFDI D07: Primas de Seguros de Gastos Médicos**
+    
+    - Gastos en seguros médicos privados, aplicables para ti, tu cónyuge o concubino, ascendientes y descendientes directos.
+- **CFDI D03: Gastos Funerarios**
+    
+    - Gastos por servicios funerarios para cónyuge, padres, abuelos, hijos y nietos. No pueden exceder el salario mínimo anual. Los servicios funerarios a futuro se deducen en el año en que se usen.
+- **CFDI D05: Intereses Hipotecarios**
+    
+    - Intereses reales pagados en créditos hipotecarios para vivienda contratados con instituciones como Infonavit o Fovissste, siempre que el crédito no supere las 750,000 UDIS.
+- **CFDI D04: Donativos**
+    
+    - Donaciones a instituciones autorizadas (como la Cruz Roja) que no superen el 7% de tus ingresos.
 
-### Donativos
+### ¿Para qué regímenes aplica?
 
-Los donativos no onerosos ni remunerativos realizados a instituciones autorizadas para recibir donativos deducibles pueden ser considerados dentro de las deducciones personales, siempre y cuando no excedan el límite establecido por la ley.
+Estas deducciones personales aplican para los siguientes regímenes:
 
-### Gastos Funerarios
+- Sueldos y Salarios
+- Actividades Empresariales y Profesionales
+- Plataformas Digitales
+- Arrendamiento
+- Intereses
+- Dividendos
 
-Los gastos funerarios son deducibles en el ejercicio fiscal en que se realicen, pero no deben exceder de cierta cantidad establecida anualmente por las disposiciones fiscales.
+### ¿Dónde puedo ver mis deducciones personales?
 
-### Seguros de Gastos Médicos
+Puedes consultar tus deducciones del año ingresando al portal del SAT con tu CIEC o e.firma. Aquí te dejo el link para el visor de deducciones personales:
 
-Las primas pagadas por seguros de gastos médicos para el contribuyente, su cónyuge o concubina(o), y sus ascendientes o descendientes en línea recta, son deducibles siempre y cuando no sean alimentistas y dependan económicamente del contribuyente.
-
-### Transporte Escolar Obligatorio
-
-En caso de que la escuela obligue al uso del transporte escolar, el monto pagado por este servicio es deducible.
-
-Es fundamental recordar que para que estos gastos sean deducibles, deben cumplir con ciertos requisitos como contar con la factura electrónica correspondiente (CFDI) y que los pagos se realicen mediante cheque nominativo del contribuyente, transferencia electrónica, tarjeta de crédito, débito o servicios. Además, es importante considerar que existen límites en las deducciones personales, los cuales no deben exceder de la cantidad menor entre cinco salarios mínimos anuales elevados al año o el 15% del total de los ingresos del contribuyente, incluyendo aquellos por los que no se pague el impuesto.
-
-## Documentación y Requisitos para Deducciones Fiscales
-
-Para hacer efectivas las deducciones fiscales, es imperativo contar con la documentación adecuada que respalde los gastos realizados. Los comprobantes fiscales (CFDI) deben cumplir con todos los requisitos que marca el SAT y ser emitidos por proveedores autorizados. Además, es necesario que los pagos se realicen con medios electrónicos para que sean rastreables y válidos ante una posible revisión por parte de las autoridades fiscales.
-
-### Organización de la Información Fiscal
-
-Mantener una organización meticulosa de los comprobantes fiscales y registros de gastos es esencial para facilitar el proceso de declaración anual y posibles auditorías. La utilización de herramientas tecnológicas como plataformas de gestión de impuestos puede simplificar significativamente la recolección y clasificación de esta información.
-
-### Plazos y Fechas Importantes
-
-Es crucial estar atento a los plazos y fechas importantes establecidos por el SAT para la presentación de la declaración anual y la aplicación de las deducciones fiscales. Generalmente, el periodo para realizar la declaración anual es durante el mes de abril del año siguiente al ejercicio fiscal correspondiente.
-
-### Asesoría Profesional
-
-Contar con la asesoría de profesionales en materia fiscal puede ser de gran ayuda para asegurar el correcto aprovechamiento de las deducciones fiscales. Los contadores y asesores fiscales están capacitados para guiar a los contribuyentes en la optimización de su carga tributaria y evitar errores que puedan tener consecuencias legales o económicas.
-
-**Las deducciones fiscales representan una oportunidad valiosa para las personas físicas en México** de reducir su carga impositiva y mejorar su salud financiera. Es esencial mantenerse informado, organizado y cumplir con todos los requisitos legales para aprovechar al máximo estos beneficios. La implementación de soluciones tecnológicas puede facilitar este proceso y asegurar una mejor planeación fiscal.
-
-Al final, la clave para una declaración eficiente y el aprovechamiento óptimo de las deducciones fiscales reside en la preparación y el conocimiento de las disposiciones fiscales vigentes. Se recomienda revisar periódicamente las actualizaciones del SAT, así como considerar la asesoría de profesionales para cualquier duda o situación particular. Con la información adecuada y las herramientas correctas, las personas físicas pueden navegar con confianza el sistema tributario mexicano y obtener los mejores resultados en su declaración anual.
+[Consulta el visor de deducciones personales](https://www.sat.gob.mx/declaracion/94574/consulta-el-visor-de-deducciones-personales)

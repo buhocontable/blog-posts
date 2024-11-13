@@ -16,7 +16,7 @@
                 "file": "cómo-deducir-los-gastos-de-gasolina-correctamente.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "cómo-deducir-los-gastos-de-gasolina-correctamente"
@@ -192,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +207,12 @@
   },
   "active": "01d48533fcff9d7a",
   "lastOpenFiles": [
-    "guía-completa-de-las-deducciones-fiscales-en-méxico.md",
-    "cómo-deducir-los-gastos-de-gasolina-correctamente.md",
     "¿por-qué-es-importante-estar-al-corriente-ante-el-sat?.md",
+    "que-hacer-cuando-te-emiten-facturas-sin-efectos-fiscales.md",
+    "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas.md",
+    "guía-completa-de-las-deducciones-fiscales-en-méxico.md",
+    "otras-maneras-de-reducir-impuestos.md",
+    "cómo-deducir-los-gastos-de-gasolina-correctamente.md",
     "_1_Proyectos/💼 Konta/1 Optimización fiscal/Reportes.md",
     "_0_Inbox/Serie Límites de decucciones personales PROD.md",
     "_1_Proyectos/💼 Konta/1 Optimización fiscal/Plan Asesoría Digital.md",
@@ -232,9 +236,6 @@
     "Journal/Daily/2024-10-22.md",
     "Journal/Daily/2024-10-21.md",
     "Journal/Daily/2024-10-27.md",
-    "Journal/Daily/2024-10-26.md",
-    "Journal/Daily/2024-10-25.md",
-    "Journal/Daily/2024-10-24.md",
     "_3_Recursos/Assets/Cheatsheets/Rails",
     "zAssets/IMG_1881.png",
     "zAssets/IMG_1882.png",
