@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guía-completa-de-las-deducciones-fiscales-en-méxico.md",
+                "file": "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "guía-completa-de-las-deducciones-fiscales-en-méxico"
+              "title": "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas"
             }
           }
         ]
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 358.5,
+    "collapsed": true
   },
   "right": {
     "id": "b78adfb6b9e383e9",
@@ -107,10 +108,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "guía-completa-de-las-deducciones-fiscales-en-méxico.md"
+                "file": "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for guía-completa-de-las-deducciones-fiscales-en-méxico"
+              "title": "File properties for reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas"
             }
           },
           {
@@ -208,10 +209,10 @@
   "active": "01d48533fcff9d7a",
   "lastOpenFiles": [
     "que-hacer-cuando-te-emiten-facturas-sin-efectos-fiscales.md",
-    "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas.md",
     "guía-completa-de-las-deducciones-fiscales-en-méxico.md",
     "cómo-deducir-los-gastos-de-gasolina-correctamente.md",
     "¿por-qué-es-importante-estar-al-corriente-ante-el-sat?.md",
+    "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas.md",
     "otras-maneras-de-reducir-impuestos.md",
     "_1_Proyectos/💼 Konta/1 Optimización fiscal/Reportes.md",
     "_0_Inbox/Serie Límites de decucciones personales PROD.md",

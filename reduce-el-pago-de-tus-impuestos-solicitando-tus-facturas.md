@@ -7,7 +7,7 @@ summary: Reducir el pago de impuestos en México de manera legal es posible a tr
 ---
 Entender cómo funcionan las deducciones y qué requisitos deben cumplir las facturas te permitirá optimizar tu carga fiscal y ahorrar en el pago de impuestos. Aquí te damos los puntos clave para solicitar tus facturas y aprovechar al máximo tus deducciones.
 
-### ¿Qué son los gastos deducibles y cómo funcionan?
+### ¿Qué son los gastos deducibles y para que sirven?
 
 Los gastos deducibles son aquellos que un contribuyente realiza para poder llevar a cabo las actividades o servicios que le generan ingresos. Estos gastos tienen beneficios fiscales importantes, ya que permiten disminuir la base gravable y, en algunos casos, reducir el IVA por pagar. Aquí te explicamos todo lo que necesitas saber sobre los gastos deducibles y cómo aprovecharlos al máximo para pagar menos impuestos.
 
