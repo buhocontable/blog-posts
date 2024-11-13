@@ -1,7 +1,7 @@
 ---
 author: Jessica Ruiz
 img: https://ca.slack-edge.com/TR6A02GKD-U01UY1S3QUU-2f47abc4c43e-512
-bio: Contador con 25 años de experiencia.
+bio: Contador con 19 años de experiencia.
 title: ¿Cómo reducir tus impuestos en México de forma legal usando deducciones y facturas?
 summary: Reducir el pago de impuestos en México de manera legal es posible a través de deducciones y comprobantes fiscales (facturas) que respalden tus gastos.
 ---

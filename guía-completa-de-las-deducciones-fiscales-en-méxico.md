@@ -17,10 +17,9 @@ Se usan exclusivamente en la Declaración Anual. Recuerda que debes presentarla 
 
 #### Ejemplo de cómo se vería en tu declaración:
 
-|INGRESOS ACUMULABLES|393,354|
-|---|---|
-|DEDUCCIONES PERSONALES|- 12,900|
-|BASE GRAVABLE|= 380,454|
+- **Ingresos Acumulables:** $10,000 MXN
+- **Deducciones personales:** $5,000 MXN
+- **Base de cálculo:** $5,000 MXN
 
 Sobre esta "base gravable" es que se calcula el impuesto que corresponde pagar.
 
