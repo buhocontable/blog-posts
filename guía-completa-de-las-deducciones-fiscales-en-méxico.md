@@ -1,7 +1,7 @@
 ---
 author: Alizon Gonzalez
 img: https://ca.slack-edge.com/TR6A02GKD-U046JJ5TDQD-f55b6fb53a97-512
-bio: Contador con 12 años de experiencia.
+bio: Contador con 21 años de experiencia.
 title: ¿Qué son las deducciones personales y cómo funcionan?
 summary: Entender el sistema tributario es esencial para cualquier contribuyente, pueden beneficiarse de una variedad de deducciones fiscales que pueden significar un ahorro importante.
 ---

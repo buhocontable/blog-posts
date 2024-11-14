@@ -16,7 +16,7 @@
                 "file": "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas"
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "b78adfb6b9e383e9",

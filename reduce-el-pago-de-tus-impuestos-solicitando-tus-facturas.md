@@ -5,64 +5,55 @@ bio: Contador con 19 años de experiencia.
 title: ¿Cómo reducir tus impuestos en México de forma legal usando deducciones y facturas?
 summary: Reducir el pago de impuestos en México de manera legal es posible a través de deducciones y comprobantes fiscales (facturas) que respalden tus gastos.
 ---
-Entender cómo funcionan las deducciones y qué requisitos deben cumplir las facturas te permitirá optimizar tu carga fiscal y ahorrar en el pago de impuestos. Aquí te damos los puntos clave para solicitar tus facturas y aprovechar al máximo tus deducciones.
+Los gastos deducibles son aquellos que tú como contribuyente realizas para poder llevar a cabo las actividades o servicios que son tu fuente de ingresos. Estos gastos tienen beneficios fiscales importantes, ya que permiten disminuir la utilidad fiscal, que es la base para el cálculo de ISR y, en algunos casos, reducir el IVA por pagar. Aquí te explicamos todo lo que necesitas saber sobre los gastos deducibles y cómo aprovecharlos al máximo para pagar menos impuestos.
 
-### ¿Qué son los gastos deducibles y para que sirven?
+### ¿Para qué sirven los gastos deducibles?
 
-Los gastos deducibles son aquellos que un contribuyente realiza para poder llevar a cabo las actividades o servicios que le generan ingresos. Estos gastos tienen beneficios fiscales importantes, ya que permiten disminuir la base gravable y, en algunos casos, reducir el IVA por pagar. Aquí te explicamos todo lo que necesitas saber sobre los gastos deducibles y cómo aprovecharlos al máximo para pagar menos impuestos.
+Los gastos deducibles sirven para reducir la utilidad fiscal que será considerada para el cálculo de impuestos, lo que se traduce en menos impuestos a pagarle al SAT.
 
-#### ¿Por qué existen los gastos deducibles?
+### ¿Cuándo se utilizan los gastos deducibles?
 
-El concepto de gastos deducibles existe para beneficiar al contribuyente, permitiéndole que los gastos necesarios para operar su negocio o actividad económica disminuyan su base gravable y, en consecuencia, el pago de impuestos. Además, si los gastos incluyen IVA, también permiten reducir el IVA por pagar. En resumen, los gastos deducibles ayudan a optimizar la carga fiscal de un negocio.
+Los gastos deducibles se aplican de manera mensual en la declaración de impuestos. Es importante llevar un control constante de los gastos para poder aprovecharlos mes a mes y optimizar la carga fiscal.
 
-#### ¿Para qué sirven los gastos deducibles?
+### ¿Cómo funcionan los gastos deducibles?
 
-Los gastos deducibles sirven para reducir los ingresos mensuales que serán considerados para el cálculo de impuestos, lo cual se traduce en un pago de impuestos menor. Al deducir estos gastos, puedes disminuir tu base de cálculo y, en consecuencia, reducir el monto de los impuestos que debes pagar al SAT.
+Los gastos deducibles funcionan restando el total de los gastos relacionados con la actividad económica de los ingresos obtenidos. Esto significa que, en lugar de calcular los impuestos sobre el total de tus ingresos, solo pagas impuestos sobre la cantidad restante después de disminuir los gastos.
 
-#### ¿Cómo funcionan los gastos deducibles?
+### Ejemplo práctico:
 
-Los gastos deducibles funcionan restando el total de los gastos relacionados con la actividad económica de los ingresos obtenidos. Esto significa que, en lugar de calcular los impuestos sobre el total de tus ingresos, solo pagas impuestos sobre la cantidad restante después de deducir los gastos.
-
-##### Ejemplo práctico:
-
-- **Ingresos:** $10,000 MXN
+- **Ingresos:** $20,000 MXN
 - **Deducciones:** $5,000 MXN
-- **Base de cálculo:** $5,000 MXN
+- **Utilidad fiscal (base de cálculo):** $15,000 MXN
 
-En este caso, en vez de calcular los impuestos sobre los $10,000, se hace sobre la base de $5,000, que es el monto después de aplicar las deducciones.
+En este caso, en vez de calcular los impuestos sobre los $20,000, se hace sobre la base de $15,000, que es el monto después de aplicar las deducciones.
 
-#### ¿Cuándo se utilizan los gastos deducibles?
+### Formato y estructura para los gastos deducibles
 
-Los gastos deducibles se aplican de manera mensual en la declaración de impuestos. Es importante llevar un control constante de los gastos deducibles para poder aprovecharlos mes a mes y optimizar la carga fiscal.
+Para que un gasto sea deducible, debe estar respaldado por una **factura** emitida por el proveedor. Esta factura debe cumplir con todos los requisitos fiscales establecidos por el SAT.
 
-#### Formato y estructura para los gastos deducibles
+### Requisitos y limitaciones de los gastos deducibles
 
-Para que un gasto sea deducible, debe estar respaldado por una **factura** emitida por el proveedor. Esta factura debe cumplir con todos los requisitos fiscales establecidos por el SAT, como incluir el RFC del cliente, el uso de CFDI correcto, y una descripción clara del bien o servicio.
+Para que un gasto sea considerado como deducible, debe cumplir con los siguientes requisitos:
 
-#### ¿Cómo y dónde obtengo facturas deducibles?
+1. **Ser indispensable para el negocio**: El gasto debe ser necesario para llevar a cabo la actividad económica o servicio. Esto incluye cualquier servicio, mercancía o material indispensable para generar tus ingresos.
+2. **Cumplir con los requisitos fiscales**: Las facturas deben cumplir con los requisitos del SAT de acuerdo al tipo de gasto:
+    1. **Gastos nacionales:** la factura debe de contener el RFC,  razón social y código postal tanto del emisor como del receptor, las gasolinas y los gastos mayores a $2,000 deberán ser pagados por medios electrónicos (tarjeta de crédito o débito, transferencia bancaria).
+    2. **Gastos extranjeros:** la factura (o invoice) debe de contener nombre, domicilio y, en su caso, número de identificación fiscal, o su equivalente, de quien lo expide, lugar y fecha de expedición, RFC y razón social del receptor de la persona a favor de quien se expida y, nombre, el valor unitario del producto o servicio, así como el importe total.
+    3. **Importación de mercancías:** el comprobante fiscal es el pedimento de importación.
+3. **Solicitar la factura en el periodo correspondiente:** Las facturas deberán ser emitidas dentro del periodo en el que se realizó y fue pagado el gasto.
+4. **En RESICO no hay deducción de gastos para ISR:** Recordemos que RESICO tiene el beneficio fiscal de tener tasas mínimas de ISR, por lo que no hay deducciones para este impuesto.
 
-Para obtener facturas deducibles, es necesario que cada gasto esté documentado correctamente. Al realizar una compra de bienes o servicios necesarios para el negocio, debes pedir la factura correspondiente al proveedor.
+### ¿Cómo y dónde obtengo facturas deducibles?
 
-#### Requisitos y limitantes de los gastos deducibles
+Al realizar una compra de bienes o servicios necesarios para el negocio, debes pedir la factura correspondiente al proveedor, ya sea nacional o extranjero. 
 
-Para que un gasto sea deducible, debe cumplir con los siguientes requisitos:
+### Tips y hacks que solo Konta sabe
 
-1. **Ser indispensable para el negocio**: El gasto debe ser necesario para llevar a cabo la actividad económica o servicio. Esto incluye cualquier servicio, mercancía o material indispensable para generar ingresos.
-    
-2. **Cumplir con los requisitos fiscales**: Las facturas deben cumplir con los requisitos del SAT, incluyendo RFC, descripción detallada y el uso adecuado de CFDI.
-    
-
-#### Posibles preguntas frecuentes
-
-- **¿Qué gastos son deducibles para mí?**  
-    Todos aquellos gastos que estén relacionados directamente con la generación de ingresos, como la compra de mercancía, contratación de servicios necesarios, o adquisición de materiales para realizar tu actividad o servicio.
-
-#### Tips y hacks que solo Konta sabe
-
-- **Revisión de facturas**: En Konta, revisamos cada factura para asegurarnos de que cumpla con los requisitos fiscales. Si encontramos algún error o falta de información, te lo notificamos en los comentarios de cada factura para que puedas corregirlo a tiempo.
+- **Revisión de facturas**: En Konta, revisamos cada factura para asegurarnos de que cumpla con los requisitos fiscales. Si encontramos algún error o falta de información, te lo notificamos en los comentarios de cada factura para que puedas corregirlo.
+- **Sincronización de facturas:** Estamos constantemente sincronizando tus facturas con la base del SAT, para que puedas ver cuáles son las facturas que te han generado tus proveedores.
 
 ---
 
-### Resumen
+### Conclusión
 
 Los gastos deducibles son una herramienta clave para optimizar la carga fiscal de tu negocio. Asegúrate de que cada gasto esté respaldado por una factura válida y cumple con los requisitos del SAT para poder deducirlos correctamente. Con un buen control de tus deducciones, puedes reducir tu base de cálculo y pagar menos impuestos.
