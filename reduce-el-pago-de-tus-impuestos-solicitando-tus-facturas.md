@@ -2,8 +2,8 @@
 author: Jessica Ruiz
 img: https://ca.slack-edge.com/TR6A02GKD-U01UY1S3QUU-2f47abc4c43e-512
 bio: Contador con 19 años de experiencia.
-title: ¿Cómo reducir tus impuestos en México de forma legal usando deducciones y facturas?
-summary: Reducir el pago de impuestos en México de manera legal es posible a través de deducciones y comprobantes fiscales (facturas) que respalden tus gastos.
+title: ¿Cómo reducir tus impuestos a través de tus gastos mensuales?
+summary: Reducir el pago de impuestos es posible a través de gastos que cumplen con los requisitos fiscales correspondientes para poder ser considerados como deducibles.
 ---
 Los gastos deducibles son aquellos que tú como contribuyente realizas para poder llevar a cabo las actividades o servicios que son tu fuente de ingresos. Estos gastos tienen beneficios fiscales importantes, ya que permiten disminuir la utilidad fiscal, que es la base para el cálculo de ISR y, en algunos casos, reducir el IVA por pagar. Aquí te explicamos todo lo que necesitas saber sobre los gastos deducibles y cómo aprovecharlos al máximo para pagar menos impuestos.
 
@@ -54,6 +54,6 @@ Al realizar una compra de bienes o servicios necesarios para el negocio, debes p
 
 ---
 
-### Conclusión
+### ¡Recuerda!
 
-Los gastos deducibles son una herramienta clave para optimizar la carga fiscal de tu negocio. Asegúrate de que cada gasto esté respaldado por una factura válida y cumple con los requisitos del SAT para poder deducirlos correctamente. Con un buen control de tus deducciones, puedes reducir tu base de cálculo y pagar menos impuestos.
+Los gastos deducibles son una herramienta clave para optimizar la carga fiscal de tu negocio. Asegúrate de que cada gasto esté respaldado por una factura válida que cumpla con los requisitos del SAT para poder deducirlos correctamente. Con un buen control de tus deducciones, puedes reducir tu base de cálculo y pagar menos impuestos.
