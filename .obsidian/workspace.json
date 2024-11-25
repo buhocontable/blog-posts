@@ -11,10 +11,15 @@
             "id": "1b267e13d42e9420",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "guía-completa-de-las-deducciones-fiscales-en-méxico.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "guía-completa-de-las-deducciones-fiscales-en-méxico"
             }
           }
         ]
@@ -198,13 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f409748a6c4784b2",
+  "active": "1b267e13d42e9420",
   "lastOpenFiles": [
+    "cómo-deducir-los-gastos-de-gasolina-correctamente.md",
+    "¿por-qué-es-importante-estar-al-corriente-ante-el-sat?.md",
     "guía-completa-de-las-deducciones-fiscales-en-méxico.md",
     "que-hacer-cuando-te-emiten-facturas-sin-efectos-fiscales.md",
     "reduce-el-pago-de-tus-impuestos-solicitando-tus-facturas.md",
-    "cómo-deducir-los-gastos-de-gasolina-correctamente.md",
-    "¿por-qué-es-importante-estar-al-corriente-ante-el-sat?.md",
     "otras-maneras-de-reducir-impuestos.md",
     "_1_Proyectos/💼 Konta/1 Optimización fiscal/Reportes.md",
     "_0_Inbox/Serie Límites de decucciones personales PROD.md",

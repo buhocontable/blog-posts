@@ -9,7 +9,7 @@ Las deducciones personales son los gastos que el contribuyente puede restar de s
 
 ### ¿Por qué existen?
 
-Existen para ayudarte y puedas reducir el pago de tu impuesto anual. Existen ocasiones que puede resultar un impuesto a favor, el cual puedes solicitar como
+Existen para ayudarte y puedas reducir el pago de tu impuesto anual. Existen ocasiones que puede resultar un impuesto a favor, el cual puedes solicitar como devolución o bien ocuparlo para pagar el mismo impuesto en meses futuros. Esta última opción es la más viable y que siempre recomendamos, pues así te olvidas de desembolsar para pagar ISR.
 
 ### ¿Cuándo se utilizan?
 
